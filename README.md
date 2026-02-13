@@ -1,8 +1,11 @@
 ### Olá! Eu sou o Osvânio de Castro. Estudante de desenvolvimento web 👋🏿
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/osv%C3%A2nio-de-castro-148482290/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/osvaniolopes/?hl=pt)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/osvânio-de-castro-148482290/)
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/osvaniolopes/)
+
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/OsvanioL)
+
 
 ![Osvânio GitHub stats](https://github-readme-stats.vercel.app/api?username=Osnio&show_icons=true&theme=dark)
 
