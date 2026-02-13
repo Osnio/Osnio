@@ -1,13 +1,19 @@
-### Olá! Eu sou o Osvânio de Castro. Estudante de desenvolvimento web 👋🏿
+### Olá! Eu sou o Osvânio de Castro. Sou um desenvolvimento web 👋🏿
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/osvânio-de-castro-148482290/)
+<p>
+  <a href="https://www.linkedin.com/in/osv%C3%A2nio-de-castro-148482290/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  
+  <a href="https://www.instagram.com/osvaniolopes/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  
+  <a href="https://x.com/OsvanioL">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+  </a>
+</p>
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/osvaniolopes/)
-
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/OsvanioL)
-
-
-![Osvânio GitHub stats](https://github-readme-stats.vercel.app/api?username=Osnio&show_icons=true&theme=dark)
 
 ## Tecnologias que eu uso
 
