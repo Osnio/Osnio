@@ -32,6 +32,8 @@
       
 </div>
 
+  <br />
+  <br />
 
 Desenvolvedor front-end apaixonado por tecnologia, focado em criar
 experiências digitais de alto impacto. Sempre em busca de aprimorar minhas
