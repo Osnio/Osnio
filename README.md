@@ -1,4 +1,4 @@
-### Olá! Eu sou o Osvânio de Castro. Sou um desenvolvimento web 👋🏿
+### Olá! Eu sou o Osvânio de Castro.👋🏿
 
 <p>
   <a href="https://www.linkedin.com/in/osv%C3%A2nio-de-castro-148482290/">
