@@ -32,10 +32,6 @@
       
 </div>
 
-## Backend
-<div style="display: inline-block"><br/>
-     <img align= "center" alt="Mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-</div><br/>
 
 Desenvolvedor front-end apaixonado por tecnologia, focado em criar
 experiências digitais de alto impacto. Sempre em busca de aprimorar minhas
